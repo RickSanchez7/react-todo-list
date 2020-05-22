@@ -5,8 +5,8 @@ class TodoList extends Component {
   render() {
     return (
       <section>
-        <h2>Hello from todo list</h2>;
-        <Item />;
+        <h2>Hello from todo list</h2>
+        <Item />
       </section>
     );
   }
